@@ -1,5 +1,0 @@
-7,george,Unassigned Year,Undeclared,-1,500
-10,bob,Unassigned Year,Undeclared,-1,400
-14,stan,Unassigned Year,Undeclared,-1,400
-17,ricardo,Unassigned Year,Undeclared,-1,400
-26,rick,Unassigned Year,Undeclared,-1,400
