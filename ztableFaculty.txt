@@ -1,2 +1,0 @@
-400,Shalat,Full Time Professor,Graphic Design,Amount of students mentored: 4,10,14,17,26
-500,Eric,Director,Graphic Design,Amount of students mentored: 1,7
